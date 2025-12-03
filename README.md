@@ -33,6 +33,8 @@
 ![Chỉnh sửa ghi chú](img/sau_khi_them.png)
 ### 4. Chỉnh sửa ghi chú hiện có
 ![Chỉnh sửa ghi chú](img/edit_note.png)
+### 5. Em thử thêm chữ hi hi vào
+![Chỉnh sửa ghi chú](img/edit_note_2.png)
 ## Cách chạy
 
 1. **tải dự án về bằng cách này nè:**
