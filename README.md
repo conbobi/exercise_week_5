@@ -51,3 +51,6 @@ flutter pub get
 ```bash
 flutter run
 ```
+
+đây là link video của em:
+https://drive.google.com/file/d/1vCzn3chf8if3Ep1e9uxFr8IF-7KGAV4f/view?usp=sharing
